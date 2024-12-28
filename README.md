@@ -36,7 +36,6 @@ Before you begin, ensure you have:
 1. **Clone & Setup**
    ```bash
    git clone https://github.com/codebasebo/OnChain-AI-Agent.git
-   cd AI-Agent
    npm install
    ```
 
